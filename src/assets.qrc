@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/i18n">
+        <file alias="zh_CN">@TRANS_FILE@</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file alias="knife">@SOURCE_DIR@/src/assets/knife.svg</file>
+        <file alias="add">@SOURCE_DIR@/src/assets/add.svg</file>
+        <file alias="no">@SOURCE_DIR@/src/assets/no.svg</file>
+        <file alias="loading">@SOURCE_DIR@/src/assets/loading.gif</file>
+    </qresource>
+</RCC>

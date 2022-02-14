@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Knife
+Exec=AppRun %F
+Icon=knife
+Comment=A PDF tool that can combine or split PDF files.
+Terminal=false
+Categories=Application;
